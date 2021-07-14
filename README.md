@@ -5,6 +5,7 @@ and serve as good examples of Ion Schema.  Each schema is contained
 within a top-level directory.  The collection includes:
 
 * [isl](isl):  schema definition for the Ion Schema Language (ISL) itself
+* [json](json):  schema definition for Ion that is valid JSON and can be downgraded to JSON without any loss of information
 
 ## License
 
